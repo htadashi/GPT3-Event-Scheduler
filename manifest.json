@@ -12,6 +12,7 @@
     "storage",
     "tabs",
     "contextMenus",
+    "downloads",
     "http://*/",
     "https://*/"
   ],
